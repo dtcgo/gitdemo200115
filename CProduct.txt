@@ -3,5 +3,6 @@ public class CProduct
 
 	public void addToCart()
 	{
+		
 	}
 }
